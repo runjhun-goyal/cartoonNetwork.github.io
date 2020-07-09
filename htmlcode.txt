@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home | Cartoon Network</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="/fav.png" type="image/png">
+</head>
+<body>
+    <section>
+    <nav>
+        <div class="logo"></div>
+        <div class="links"> 
+            <a id="Home" href="">Home</a>
+            <a href="">Schedule</a>
+            <a href="">Where To Watch</a>
+            <a href="">Contests</a>
+        </div>
+    </nav>
+    <main>
+        <div class="header"><h2>FEATURED</h2></div>
+        <div class="imgb">
+                <div class="imgs"id="one"> 
+                    <div class="overlay">
+                        <div class="img-content">
+                            <h1>Heading</h1>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                        </div>
+                    </div> 
+                </div>            
+                <div class="imgs"id="two">
+                    <div class="overlay">
+                        <div class="img-content">
+                            <h1>Heading</h1>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                        </div>
+                    </div>
+                </div>            
+                <div class="imgs"id="three">
+                    <div class="overlay">
+                        <div class="img-content">
+                            <h1>Heading</h1>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="imgsm">
+            <div class="imgsms">
+                <img src="4.jpg" alt="">
+                <div class="row2">
+                    <h1>Heading</h1>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <div class="imgsms">
+                <img src="5.jpg" alt="">
+                <div class="row2">
+                    <h1>Heading</h1>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <div class="imgsms">
+                <img src="6.jpg" alt="">
+                <div class="row2">
+                    <h1>Heading</h1>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <div class="imgsms">
+                <img src="7.jpg" alt="">
+                <div class="row2">
+                    <h1>Heading</h1>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+        </div>
+        <div class="dis">
+            <div class="dislogo"></div>
+            <div class="disp">
+                 <h2>
+                    CARTOON NETWORK IS NOW 24/7 KIDS!
+                 </h2>
+                 <p>
+                    We’re all kids, 24 hours a day, 7 days a week, all day long.
+                 </p>
+                 <p>
+                    24/7 fun happens every day on Cartoon Network.
+                 </p>
+            </div>
+        </div>
+        <div class="content">
+            <div class="con1">
+                <h2>ABOUT CARTOON NETWORK</h2>
+                <p>Cartoon Network (Canada) is the destination for kids and families seeking hilarious animation. Cartoon Network is the funny and unexpected brand that stands out from the pack in a way that kids can relate.</p>
+            </div>
+            <div class="con2">
+                <h2>
+                    CONTACT US
+                </h2>
+                <p>
+                    We want to hear from you! To share your feedback, please email us at <a href="mailto:info@cartoonnetwork.ca"> info@cartoonnetwork.ca</a>
+                </p>
+            </div>
+        </div>        
+    </main>
+    <footer>
+        <div class="copy">
+            <div class="copylink">
+                <a href="">About Us</a>
+                <a href="">Privacy Policy</a>
+                <a href="">Terms of Use</a>
+                <a href="">Advertising Standard Terms</a>
+                <a href="">Subscribe to Channel</a>
+            </div>
+            <div class="copyp">
+                <p>
+                    © Corus Entertainment Inc., 2020. All rights reserved. Corus Television.
+                </p>
+            </div>
+        </div>
+        <div class="copyl"> 
+            <div class="copyla">
+                <img src="corus.png" alt="">
+            </div>
+            <div class="copylat"> <p> Other Corus Kids Websites</p></div>
+            <div class="icons">
+                <div id="aaa"><img src="aone.png" alt=""></div>
+                <div id="aab"><img src="bone.png" alt=""></div>
+                <div id="aac"><img src="cone.png" alt=""></div>
+                <div id="aad"><img src="done.png" alt=""></div>
+                <div id="aae"><img src="eone.png" alt=""></div>
+            </div>
+        </div>
+
+    </footer>
+</section>
+</body>
+</html>
